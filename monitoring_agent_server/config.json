@@ -1,0 +1,14 @@
+{
+    "mongodb": {
+      "host": "localhost",
+      "port": 27017,
+      "database": "monitoringsystem",
+      "collection": "app_usage_logs_2"
+    },
+    "milvus": {
+      "host": "localhost",
+      "port": "19530",
+      "collection_name": "usage_vectors"
+    }
+  }
+  
